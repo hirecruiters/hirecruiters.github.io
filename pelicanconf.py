@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'me'
 SITENAME = u'hi-recruiters'
-SITEURL = 'https://hirecruiters.github.io/hi-recruiters-pelican'
+SITEURL = 'https://hirecruiters.github.io'
 
 PATH = 'content'
 
